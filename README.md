@@ -41,3 +41,9 @@ to get a feeling for handling and using Rust - I recommend you do the same!!!
 For now let's continue with the base setup of Substrate.
 
 # Substrate (WIP)
+
+## Install
+Until I come up with a better way of setting that stuff up, let's just install substrate localy.
+```
+curl getsubstrate.io -sSf | bash
+```
