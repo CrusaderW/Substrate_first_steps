@@ -1,4 +1,4 @@
-# Substrate_first_steps
+# Rust
  Let's start with the basic steps from the [Rust
  tutorial](https://doc.rust-lang.org/book/2018-edition/index.html) to set up the
  requisites concerning Rust:
@@ -20,13 +20,24 @@ By adding this your OS will know where to find the rust environment.
 export PATH="$HOME/.cargo/bin:$PATH"
 ```
 
-## Hello World
+## [Hello_World](https://doc.rust-lang.org/book/2018-edition/ch01-02-hello-world.html)
 - The hello-world can be found in the folder hello_world. The following commands
 will direct you to the folder hello_world, compile and execute the programm in
 the main.rs
-``` bash
-cd hello_world
+
+```bash
+cd rust_tutorial/1.2hello_world
 rustc main.rs
 ./main
 ```
+
 You will see the text ```Hello, World!``` on your Terminal
+
+## [Hello_Cargo](https://doc.rust-lang.org/book/2018-edition/ch01-03-hello-cargo.html)
+- Check if Cargo is properly installed: ```cargo --version```
+DISCLAIMER: From here on forward I just followed the Rust-Tutorial linked above
+to get a feeling for handling and using Rust - I recommend you do the same!!!
+
+For now let's continue with the base setup of Substrate.
+
+# Substrate (WIP)
