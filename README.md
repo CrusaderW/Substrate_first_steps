@@ -3,7 +3,7 @@
  tutorial](https://doc.rust-lang.org/book/2018-edition/index.html) to set up the
  requisites concerning Rust:
 ## Install
--First let's install all dependencies:
+- First let's install all dependencies:
 ```
 sudo apt-get install curl
 ```
