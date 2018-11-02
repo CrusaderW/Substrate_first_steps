@@ -3,6 +3,10 @@
  tutorial](https://doc.rust-lang.org/book/2018-edition/index.html) to set up the
  requisites concerning Rust:
 ## Install
+-First let's install all dependencies:
+```
+sudo apt-get install curl
+```
 - Install rustup (choose default PATH if you have no idea what you are doing) ->
 Just press ENTER.
 ```
