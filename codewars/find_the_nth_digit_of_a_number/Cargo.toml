@@ -1,0 +1,6 @@
+[package]
+name = "find_the_nth_digit_of_a_number"
+version = "0.1.0"
+authors = ["Christian Wirth <wirth@outrightsolutions.de>"]
+
+[dependencies]
